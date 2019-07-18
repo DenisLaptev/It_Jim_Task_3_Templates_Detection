@@ -1,0 +1,3 @@
+To find three templates on the video using template match function and using ORB keypoints. 
+Depict the markers on the video (visualization of them on the frames with text signs, dots or rectanges will be fine). 
+Note cv2.drawKeypoints()  cv2.drawMatches()
